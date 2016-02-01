@@ -1,0 +1,28 @@
+name: checkitttt
+favicon: null
+layout_spectrum: 0.257029201136902
+typography_spectrum: 0.5425920677371323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7690344911534339
+  lightness: 0.594629711471498
+  saturation: 0.7011343634221703
+  rhythmicContrast: 0.8429916847962886
+purpose: []
